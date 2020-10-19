@@ -1,6 +1,5 @@
 ## Description
 This is a fun project called keeper. It works as the windows sitcky note on your web! This repo does not have a backend built but is purely React.
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
